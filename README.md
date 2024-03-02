@@ -37,12 +37,6 @@ Visualization plays a pivotal role in model interpretation and comparison within
 ## Model Evaluation
 To gauge the predictive efficacy of our models, we employ various performance metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). By calculating these metrics for each model individually, we gain insights into the accuracy of weight predictions across male and female populations.
 
-## Repository Structure
-- **data**: Contains the dataset utilized for model training and evaluation.
-- **code**: Holds the source code for model building, visualization, and evaluation.
-- **docs**: Includes documentation files, such as this README.
-- **results**: Stores the output and results generated during model development and evaluation.
-
 ## Usage
 1. Clone the repository to your local machine.
 2. Navigate to the `code` directory.
